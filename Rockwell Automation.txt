@@ -1,0 +1,46 @@
+Problem Defination
+
+Company named "Rockwell Automation inc." has a presence over world with head quarter in London and 17 Offshore developement
+centers.Company has 35000 employees all over world and their information is saved on the their private cloud.
+Prevously Rockwell Automation had private cloud for their IT solutions.
+but bercause of growth of company it is impossible to save data on their excisting cloud, they requiring the other cloud. 
+so they decided to use the Amazon cloud. Due to growth of company in all sectors , company wants to use "Amazon Web Services" 
+public cloud like infrastructure as Service. All Employees should be able to access their Human Resource Solution portal from anywhere
+in the world. So they have decided to create the Human Resources Solutions portal which will publically accessible for employees working
+in that organization. Company also want to build and host this information System in public cloud Google Cloud Platform or Aws. after that 
+all the employees have acess to Human Resource Portal from anywhere in the world so that company dont have to worry about the information 
+that is saved on the cloud it will be accessible by the employees. Whatever the changes made on the portal this changes gets reflect on the 
+cloud and employee will able to get notified.
+
+
+
+Functional Requirements
+
+1) login 
+2) Registration
+3) Human Resource Details
+4)verify login credentials
+5)Displaying Error messege
+6)About
+7)Employee payrole management
+
+
+
+Non Functional Requirement
+
+1) Performance
+2) Scalability
+3) Maintability
+4) Serviceability
+5) Capacity
+6) Availability
+7) Reliability
+8) Recoverability
+
+
+Problem Statement
+
+Rockwell Automation Inc Comapy has growth in all the sectors, so their centers are in the various countries 
+and having head quarter in London. Employee count of their company has gradually increasing, so it is not 
+possible for them to use their existing cloud, so they decided to usde the Amazon Web Services public cloud
+so that all the employees should be able to acess their Human Resource Solution Portal from anywhere in the world.
